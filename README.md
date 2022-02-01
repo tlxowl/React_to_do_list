@@ -1,3 +1,8 @@
+Instructions d'installation:
+npm install i | packages react
+npm install @mui/icons-material | bibliothèque d'icones pour l'application
+npm install uuidv4 | auto-implémentations des ids de tasks
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
